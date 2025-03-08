@@ -10,3 +10,6 @@ In my free time, I love checking out new data analysis tools and techniques, and
 Oh, and I’ve got a link to my CV in PDF 
 
 Plus a repository where I showcase my skills, share projects, and keep track of my progress in Data Analytics. 
+
+## Table of Contents
+- [About me](
