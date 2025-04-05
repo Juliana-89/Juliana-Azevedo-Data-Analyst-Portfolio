@@ -25,9 +25,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 Skills: Data Cleaning & Preparation, SQL, Data Analysis & Business Insights, Visualization & Storytelling, Business Acumen.
 
-Technologies: PostgreSQL and PowerBI
+Technologies: PostgreSQL(SQL) and PowerBI
 
-### 
+### Analysis on emerging Technologies and trends
+[Analysis on emerging Technologies and trends](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/tree/main)
+
+Skills: Data Cleaning & Preparation, Python, Data Analysis & Business Insights, Visualization & Storytelling, Building Dashboards, Business Acumen.
+
+Technologies: JupyterLite(Python) and Looker Studio
 
 ## Education
 Ulster University, London: 
