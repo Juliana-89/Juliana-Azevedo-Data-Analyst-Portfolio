@@ -27,6 +27,13 @@ Skills: Data Cleaning & Preparation, SQL, Data Analysis & Business Insights, Vis
 
 Technologies: PostgreSQL(SQL) and PowerBI
 
+### Analysing Bella Beat trends 
+[Bella Beat Case Study](https://github.com/Juliana-89/Bellabeat-Case-Study-SQL-and-Power-BI/tree/main)
+
+Skills: Data Modeling, Data Transformation, Exploration & Preparation, SQL, Data Analysis & Business Insights, Visualization & Storytelling, Business Acumen.
+
+Technologies: PostgreSQL(SQL) and PowerBI
+
 ### Analysis on emerging Technologies and trends
 [Analysis on emerging Technologies and trends](https://github.com/Juliana-89/Analysis-on-emerging-Technologies-and-trends/tree/main)
 
