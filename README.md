@@ -7,7 +7,7 @@ Throughout my studies, I’ve become pretty good at working with complex data an
 
 In my free time, I love checking out new data analysis tools and techniques, and I’m always eager to learn more. Whether I’m collaborating with a team or tackling something solo, I’m driven by the excitement of uncovering new insights and the joy of using data to solve tricky problems.
 
-Oh, and I’ve got a link to my [CV](https://github.com/Juliana-89/Juliana-Azevedo-Data-Analyst-Portfolio/blob/main/Juliana%20Azevedo-CV%20english.docx) in PDF 
+Oh, and I’ve got a link to my [CV](https://github.com/Juliana-89/Juliana-Azevedo-Data-Analyst-Portfolio/blob/main/Juliana%20Azevedo-CV%20english.docx) in DOCX. 
 
 Plus a repository where I showcase my skills, share projects, and keep track of my progress in Data Analytics. 
 
